@@ -1,0 +1,18 @@
+Day,Wash basin use time (minutes),Bathroom shower use time (minutes),Health faucet use time (minutes),Bathroom tap use time (minutes),Toilet flush use time (minutes)
+1,29,48,7,53,0.5
+2,22,35,4,48,0.3
+3,25,39,5,52.5,0.5
+4,24,43,4.5,46,0.6
+5,19,32,6.5,53,0.5
+6,26,47,5,50.5,0.4
+7,17,51,7.5,46,0.6
+,,,,,
+,,,,,
+Equipment,Average Flow rate (Litre per minute),,,,
+Wash basin,11.3562,,,,
+Bathroom shower,8.517177,,,,
+Health faucet,9.4636,,,,
+Bathroom tap,15.1416,,,,
+Toilet flush ,30.2833,,,,
+,0,,,,
+,0,,,,
